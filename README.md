@@ -15,7 +15,6 @@
 <img src="https://miro.medium.com/v2/resize:fit:1358/1*Zg4Qb9_ehEaUv7aWXbAeWw@2x.jpeg" alt="numpy" width="40" height="40"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1HorGnBjp9URQZH5Mrlbm3ls29QWU3s8fTYnydsmO5i0BAvgVS533WBemBv-Oa0LOqE&usqp=CAU" alt="matplotlib" width="40" height="40"/>
-<img src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/plotly-technologies.png" alt="plotly" width="40" height="40"/>
 <img src="https://intro-to-code.readthedocs.io/en/latest/_images/folium.png" alt="folium" width="40" height="40"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
