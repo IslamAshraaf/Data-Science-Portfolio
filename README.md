@@ -14,32 +14,8 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     </p>
 </div>
-=======
-# Data Science Portfolio  
 
-<h3 align="left">Technologies Used:</h3>
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img src="https://the-examples-book.com/starter-guides/data-engineering/_images/pyspark.png" alt="pyspark" width="40" height="40"/>
-
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://miro.medium.com/v2/resize:fit:1358/1*Zg4Qb9_ehEaUv7aWXbAeWw@2x.jpeg" alt="numpy" width="40" height="40"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1HorGnBjp9URQZH5Mrlbm3ls29QWU3s8fTYnydsmO5i0BAvgVS533WBemBv-Oa0LOqE&usqp=CAU" alt="matplotlib" width="40" height="40"/>
-<img src="https://intro-to-code.readthedocs.io/en/latest/_images/folium.png" alt="folium" width="40" height="40"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</p>
-
-
->>>>>>> 12a30a41e62b9d80f898a9206f1efa99b1e7269e
+---
 
 ## Full Projects : 
 
@@ -113,6 +89,7 @@
     </table>
 </div>
 
+---
 
 ### Natural Language Processing
 
@@ -129,6 +106,8 @@
     </tr>
     </table>
 </div>
+
+---
 
 ### Feature Reduction
 <div align="center">
