@@ -1,0 +1,36 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Temp Ignore
+Nawy Task/
+
+
+
+# Virtual environments
+.venv
+pyproject.toml
+.python-version
+uv.lock
+
+
+# Dirs
+data/
+cars_images/
+DB/
+
+# Files
+*.csv
+*.xlsx
+*.py
+*.pkl
+*.mp4
+*.pdf
+*.ipynb
+*.jpeg
+*.jpg
+*.pkl
