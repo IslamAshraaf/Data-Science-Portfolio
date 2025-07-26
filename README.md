@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
     <h2>Technologies Used</h2>
     <p>
@@ -131,7 +130,6 @@
     </table>
 </div>
 
-<<<<<<< HEAD
 ### Feature Reduction
 <div align="center">
     <table>
@@ -146,33 +144,4 @@
     </tr>
     </table>
 </div>
-=======
-### Feature Reduction 
-* __[Reducing Image Complexity with PCA](https://github.com/IslamAshraaf/Data-Science-Portfolio/blob/main/Reducing%20Image%20Complexity%20with%20PCA/PCA%20Image%20Reduction.ipynb)__ : Using Principal Component Analysis Algorithm to reduce the image complexity of cars using both the native mathematical equations and metrices and sklearn to compare.
 
-## Data Analytics & Visualization : 
-
-* __[E-commerce Analysis](https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/E-commerce%20Analysis.ipynb)__ : Discovering customers behivour on e-commerce and applying data cleaning, visulaization and feature engineering to capture hidden features.
-
-* __[Pharmacies Sales Analysis](https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Pharmacies%20Sales%20Analysis.ipynb)__ : Analyzed sales data from pharmacies to identify trends, optimize inventory, and improve profitability.
-
-* __[Taxi Rides Analysis](https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Taxi%20Rides%20Analysis.ipynb)__ : Analyzed taxi rides data to optimize routes, improve driver efficiency, and enhance the user experience.
-
-* __[Sales Report](https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Dashboards/Sales_Report_Dashboard.jpg)__
-
-<img src="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Dashboards/Sales_Report_Dashboard.jpg?raw=true"/>
-
-## Database :
-
-* __[SpaceX SQL Queries](https://github.com/IslamAshraaf/Data-Science-Portfolio/blob/main/Skill-Based-Projects/DB/SpaceX_Assignment.ipynb)__ : In this assignement i used sql queries inside jupyter notebook to get insights from rocket launches in SpaceX
-
-## Web Scraping : 
-
-* __[Amazon]()__ : Scraping laptops data from Amazon website using Selenium to get some insights about the capabilities of laptops and the price for each.
-<img src="https://github.com/IslamAshraaf/Web-Scraping/blob/main/Amazon/media/amazon_gif.gif?raw=true"/>
-<br>
-
-* __[Booking]()__ : Scraping data from Booking using Selenium to gather hotels informations for analysis depending on customer requirements.
-<img src="https://github.com/IslamAshraaf/Web-Scraping/blob/main/Booking/media/Booking_gif.gif?raw=true" />
-<br>
->>>>>>> 12a30a41e62b9d80f898a9206f1efa99b1e7269e
